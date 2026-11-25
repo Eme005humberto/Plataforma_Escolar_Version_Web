@@ -1,0 +1,6 @@
+@CapaNegocio_HostAddress = http://localhost:5033
+
+GET {{CapaNegocio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

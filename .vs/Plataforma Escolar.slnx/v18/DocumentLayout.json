@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Emerson Humberto\\Documents\\Proyectos\\Plataforma Educativa 1.0\\Plataforma Escolar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\emerson humberto\\documents\\proyectos\\plataforma educativa 1.0\\plataforma escolar\\capanegocio\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\emerson humberto\\documents\\proyectos\\plataforma educativa 1.0\\plataforma escolar\\capanegocio\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\emerson humberto\\documents\\proyectos\\plataforma educativa 1.0\\plataforma escolar\\capanegocio\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\emerson humberto\\documents\\proyectos\\plataforma educativa 1.0\\plataforma escolar\\capanegocio\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\emerson humberto\\documents\\proyectos\\plataforma educativa 1.0\\plataforma escolar\\capanegocio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\emerson humberto\\documents\\proyectos\\plataforma educativa 1.0\\plataforma escolar\\capanegocio\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emerson Humberto\\Documents\\Proyectos\\Plataforma Educativa 1.0\\Plataforma Escolar\\CapaNegocio\\Program.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Program.cs",
+              "ToolTip": "C:\\Users\\Emerson Humberto\\Documents\\Proyectos\\Plataforma Educativa 1.0\\Plataforma Escolar\\CapaNegocio\\Program.cs",
+              "RelativeToolTip": "CapaNegocio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T22:22:10.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Emerson Humberto\\Documents\\Proyectos\\Plataforma Educativa 1.0\\Plataforma Escolar\\CapaNegocio\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Emerson Humberto\\Documents\\Proyectos\\Plataforma Educativa 1.0\\Plataforma Escolar\\CapaNegocio\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "CapaNegocio\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T22:21:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IUsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\Emerson Humberto\\Documents\\Proyectos\\Plataforma Educativa 1.0\\Plataforma Escolar\\CapaNegocio\\Services\\Interfaces\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\Services\\Interfaces\\IUsuarioService.cs",
               "ToolTip": "C:\\Users\\Emerson Humberto\\Documents\\Proyectos\\Plataforma Educativa 1.0\\Plataforma Escolar\\CapaNegocio\\Services\\Interfaces\\IUsuarioService.cs",
               "RelativeToolTip": "CapaNegocio\\Services\\Interfaces\\IUsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T17:15:08.062Z",
               "EditorCaption": ""
@@ -45,13 +79,14 @@
               "RelativeDocumentMoniker": "CapaNegocio\\DTOs\\UsuarioDTO.cs",
               "ToolTip": "C:\\Users\\Emerson Humberto\\Documents\\Proyectos\\Plataforma Educativa 1.0\\Plataforma Escolar\\CapaNegocio\\DTOs\\UsuarioDTO.cs",
               "RelativeToolTip": "CapaNegocio\\DTOs\\UsuarioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-25T17:13:52.497Z"
+              "WhenOpened": "2026-11-25T17:13:52.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Emerson Humberto\\Documents\\Proyectos\\Plataforma Educativa 1.0\\Plataforma Escolar\\CapaNegocio\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\Models\\Usuario.cs",
